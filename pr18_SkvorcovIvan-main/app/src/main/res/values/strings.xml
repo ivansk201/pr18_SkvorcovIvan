@@ -1,0 +1,29 @@
+<resources>
+    <string name="app_name">IVI</string>
+    <string name="films_name">Коллекция файльмов которые есть</string>
+    <string name="reigst">Регистрация</string>
+    <string name="zareg">Зарегистрироваться</string>
+    <string name="voitu">Вход</string>
+    <string name="vxod">Войти</string>
+    <string name="flim1">Форрест Гамп (1994)</string>
+    <string name="flim2">Зеленая миля (1999)</string>
+    <string name="flim3">Список Шиндлера (1993)</string>
+    <string name="flim4">Побег из Шоушенка (1994)</string>
+    <string name="flim5">Тайна Коко (2017)</string>
+    <string name="flim6">Властелин колец: Возвращение короля (2003)</string>
+    <string name="flim7">Интерстеллар (2014)</string>
+    <string name="flim8">Бойцовский клуб (1999)</string>
+    <string name="flim9">Криминальное чтиво (1994)</string>
+    <string name="flim10">Назад в будущее (1985)</string>
+    <string name="vibor">Выбрать</string>
+    <string name="dobavit">Добавить</string>
+    <string name="privet">Добро пожаловать в IVI</string>
+    <string name="vopros">У вас уже есть аккаунт?</string>
+
+    <string-array name="account_logins">
+        <item>example_login1</item>
+        <item>example_login2</item>
+        <item>example_login3</item>
+        <item>new_account_login</item>
+    </string-array>
+</resources>
